@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Ecommerce-Project**
 
-- 👨‍💻 All of my projects are available at [https://www.fiverr.com/rajabali10005?up_rollout=true](https://www.fiverr.com/rajabali10005?up_rollout=true)
+- 👨‍💻 All of my projects are available at [https://admirable-sprinkles-2e827c.netlify.app/](https://admirable-sprinkles-2e827c.netlify.app/)
 
 - 💬 Ask me about **React, JavaScript,Node.js**
 

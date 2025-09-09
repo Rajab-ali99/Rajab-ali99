@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on **Ecommerce-Project**
 
-- 👨‍💻 All of my projects are available at [https://admirable-sprinkles-2e827c.netlify.app/](https://admirable-sprinkles-2e827c.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-e4q6.onrender.com](https://portfolio-e4q6.onrender.com/)
 
 - 💬 Ask me about **React, JavaScript,Node.js**
 
 - 📫 How to reach me **Rajabali2649@gmail.com**
 
-- 📄 Know about my experiences [https://admirable-sprinkles-2e827c.netlify.app/](https://admirable-sprinkles-2e827c.netlify.app/)
+- 📄 Know about my experiences [https://portfolio-e4q6.onrender.com/](https://portfolio-e4q6.onrender.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
